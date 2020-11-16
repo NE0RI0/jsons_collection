@@ -1,0 +1,326 @@
+[
+    {
+        "name": "rojo",
+        "dir": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAABlBMVEX4AAD2AQD09ByYAAAAwElEQVR4nO3asQ2AMAwAQdh/aRrKIBoXfLhrLVn+MlKO48F5e5r3KexT2Kewb/9CAAAA/mXqpXsOmWhaXza1R6HCiab1ZVN7FCqcaFpfNrXne4UAAAAAAAAAAMC7/X/wKOxT2KewT2Gfwj6FfQr7FPYp7FPYp7BPYZ/CPoV9CvsU9insU9insE9hn8I+hX0K+xT2KexT2KewT2Gfwj6FfQr7FPYp7FPYp7Bv/0IAAAAAAAAAAAAAAAAAAAAAANjaBd8lBQFxOlj6AAAAAElFTkSuQmCC"
+    },
+    {
+        "name": "naranja",
+        "dir": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQ0AAAC8CAMAAABVLQteAAAAA1BMVEX/ZgAqRcUWAAAASElEQVR4nO3BAQ0AAADCoPdPbQ43oAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC+DcZIAAF57zC0AAAAAElFTkSuQmCC"
+    },
+    {
+        "name": "amarillo",
+        "dir": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSFZGh9tt9xecvUM82ZsSuwVyGGhLZcYNdaZw&usqp=CAU"
+    },
+    {
+        "name": "verde",
+        "dir": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQ0AAAC8CAMAAABVLQteAAAAA1BMVEUA/wA0XsCoAAAASElEQVR4nO3BAQ0AAADCoPdPbQ43oAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC+DcZIAAF57zC0AAAAAElFTkSuQmCC"
+    },
+    {
+        "name": "azul",
+        "dir": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkFBQoFBQUFBQ8ICQUKFBEWFhQRExMYHCggGBolGxMTITEhJSkrLi4uFx8zODMsNygtLisBCgoKBQUFDgUFDisZExkrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrK//AABEIALwBDQMBIgACEQEDEQH/xAAVAAEBAAAAAAAAAAAAAAAAAAAAB//EABQQAQAAAAAAAAAAAAAAAAAAAAD/xAAWAQEBAQAAAAAAAAAAAAAAAAAABwX/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwCTgLMzgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH/2Q=="
+    },
+    {
+        "name": "morado",
+        "dir": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASYAAACrCAMAAAD8Q8FaAAAAA1BMVEVVLoe11s4uAAAASElEQVR4nO3BMQEAAADCoPVPbQ0PoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIALA8UNAAFusnLHAAAAAElFTkSuQmCC"
+    },
+    {
+        "name": "rosa",
+        "dir": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAA1BMVEX/tsFHHvIvAAAASElEQVR4nO3BgQAAAADDoPlTX+AIVQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwDcaiAAFXD1ujAAAAAElFTkSuQmCC"
+    },
+    {
+        "name": "cafe",
+        "dir": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARQAAAC3CAMAAADkUVG/AAAAA1BMVEVmMwAfS+94AAAASElEQVR4nO3BMQEAAADCoPVPbQwfoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABuBsYDAAF1TSTaAAAAAElFTkSuQmCC"
+    },
+    {
+        "name": "blanco",
+        "dir": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAA1BMVEX///+nxBvIAAAASElEQVR4nO3BgQAAAADDoPlTX+AIVQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwDcaiAAFXD1ujAAAAAElFTkSuQmCC"
+    },
+    {
+        "name": "negro",
+        "dir": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQcAAADACAMAAAA+71YtAAAAA1BMVEUAAACnej3aAAAASElEQVR4nO3BMQEAAADCoPVPbQwfoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA+BsYAAAF7hZJ0AAAAAElFTkSuQmCC"
+    },
+    {
+        "name": "Rock",
+        "dir": "https://johanycarloshome.files.wordpress.com/2019/01/depositphotos_67643805-stock-illustration-rock-music-concept.jpg"
+    },
+    {
+        "name": "Blues ",
+        "dir": "https://pbs.twimg.com/profile_images/566840408278192129/-S45Xdco.jpeg"
+    },
+    {
+        "name": "Reggeton",
+        "dir": "https://www.criptica.com.mx/uploads/noticia/la-musica-mas-popular-del-mundo-en-el-2018-segun-youtube-el-reggaeton-criptica.com.mx.png"
+    },
+    {
+        "name": "Hip_Hop",
+        "dir": "https://mobimg.b-cdn.net/pic/v2/gallery/preview/ip-hop_hip_hop-lyudi-muzhchiny-muzyka-tancy-10253.jpg"
+    },
+    {
+        "name": "Rap",
+        "dir": ""
+    },
+    {
+        "name": "Clasica",
+        "dir": "https://i.scdn.co/image/ab67616d0000b273524ebe87dc8e2845d91eb21d"
+    },
+    {
+        "name": "Jazz",
+        "dir": "https://i.musicaimg.com/articulos/musica-jazz.jpg"
+    },
+    {
+        "name": "heavy_metal",
+        "dir": "https://imagenes.20minutos.es/files/image_656_370/uploads/imagenes/2020/06/08/mejores-bandas-de-heavy-metal-en-la-historia.jpeg"
+    },
+    {
+        "name": "salsa",
+        "dir": "https://previews.123rf.com/images/lainspiratriz/lainspiratriz1607/lainspiratriz160700011/60438899-salsa-in-the-city-tropical-handsome-man-and-beautiful-girl-dancing-latin-music.jpg"
+    },
+    {
+        "name": "country",
+        "dir": "https://i.musicaimg.com/articulos/musica-country.jpg"
+    },
+    {
+        "name": "Instrumental",
+        "dir": ""
+    },
+    {
+        "name": "Reggae",
+        "dir": "https://i.ytimg.com/vi/-FgQNR5xddM/hqdefault.jpg"
+    },
+    {
+        "name": "Disco",
+        "dir": "https://www.redadultomayor.org/wp-content/uploads/2018/03/maxresdefault.jpg"
+    },
+    {
+        "name": "ELectronica",
+        "dir": "https://i.musicaimg.com/articulos/musica-electronica.jpg"
+    },
+    {
+        "name": "Orquesta",
+        "dir": "https://musicaenmexico.com.mx/wp-content/uploads/2019/07/10orquestas.jpg"
+    },
+    {
+        "name": "Ska",
+        "dir": "https://cuentacanciones.com/wp-content/uploads/2010/11/canciones-cantantes-ska.jpg"
+    },
+    {
+        "name": "Rock_Alternativo",
+        "dir": "https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/816/500"
+    },
+    {
+        "name": "Pop",
+        "dir": "https://musicandote.com/wp-content/uploads/2013/12/pop.jpg"
+    },
+    {
+        "name": "Bachata",
+        "dir": "https://i.ytimg.com/vi/jD7jwFijCRs/maxresdefault.jpg"
+    },
+    {
+        "name": "Tango",
+        "dir": "https://img.freepik.com/vector-gratis/cartel-diseno-fiesta-tango-ilustracion-vectorial_10083-26.jpg?size=338&ext=jpg"
+    },
+    {
+        "name": "K-Pop",
+        "dir": "https://2.bp.blogspot.com/-VBN-x9ZIH8g/Ws86G-jfCUI/AAAAAAAAFDg/tp6Zm2zwPRgBU0Vq1Q8WJ9TWYZ7h8TqQQCLcBGAs/s1600/k-pop.jpg"
+    },
+    {
+        "name": "mexicana",
+        "dir": "https://revistadiners.com.co/wp-content/uploads/2020/07/portada_rutaazteca_1200x800.jpg"
+    },
+    {
+        "name": "japonesa",
+        "dir": "https://media-cdn.tripadvisor.com/media/photo-s/15/05/03/32/sashimi-e-sushi-variados.jpg"
+    },
+    {
+        "name": "italiana",
+        "dir": "https://foodscene.deliveroo.es/assets/images/blogs/foodscene.deliveroo.es/es/platos/1a68dGLu--5FpWhoEjEFqp-4OmqrQBDTUF9Zsj_97Bo0/h_23_what_do_italian_restaurants_have_to_offer_.jpg.jpg?v=1.01"
+    },
+    {
+        "name": "india",
+        "dir": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcShPO22Rwu-npCcTu5d5KXEIodb_iygiWO3aw&usqp=CAU"
+    },
+    {
+        "name": "china ",
+        "dir": "https://d1ralsognjng37.cloudfront.net/d231b765-4026-4417-874b-a01e343b6ff2"
+    },
+    {
+        "name": "francesa",
+        "dir": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT-J_n6avdOTZy4tUyJHbGTSJQkpNFTJEQFQQ&usqp=CAU"
+    },
+    {
+        "name": "brasile\u00f1o",
+        "dir": "https://i.pinimg.com/originals/d8/1d/1c/d81d1c2c38cb6a4840e98a5aa03d81e6.jpg"
+    },
+    {
+        "name": "espa\u00f1ola",
+        "dir": "https://t1.salir.ltmcdn.com/es/posts/0/3/0/platos_tipicos_de_espana_por_comunidades_30_600.jpg"
+    },
+    {
+        "name": "tailandesa",
+        "dir": "https://islatortugadivers.com/wp-content/uploads/2017/09/www.islatortugadivers.com-isla-tortuga-divers-koh-tao-comidathai-featured-pictures2.jpg"
+    },
+    {
+        "name": "poop",
+        "dir": "https://images-na.ssl-images-amazon.com/images/I/41sAIE0logL._AC_SX355_.jpg"
+    },
+    {
+        "name": "shy monkey",
+        "dir": "https://cdn.shopify.com/s/files/1/1061/1924/products/See_No_Evil_Monkey_Emoji_grande.png?v=1571606065"
+    },
+    {
+        "name": "dormir",
+        "dir": "https://ichef.bbci.co.uk/news/640/cpsprodpb/1703C/production/_103886249_sleeping.jpg"
+    },
+    {
+        "name": "comer",
+        "dir": "https://www.ecoticias.com/userfiles/extra/XVVE_123.jpg"
+    },
+    {
+        "name": "lavarseDientes",
+        "dir": "https://www.webconsultas.com/sites/default/files/styles/wc_adaptive_image__small/public/temas/como-cepillarse-los-dientes.jpg"
+    },
+    {
+        "name": "enojo",
+        "dir": "https://cdn.doers.video/embed/ae6ba31b12bb30d03cb85538bb2c79401526421694/5a393d391d278.jpg"
+    },
+    {
+        "name": "rabia",
+        "dir": "https://www.bbmundo.com/wp-content/uploads/2020/06/por-que-mi-hijo-se-enoja-mucho-que-hacer-ninos-enojones-bbmundo-2020-798x515.jpg"
+    },
+    {
+        "name": "felicidad",
+        "dir": "https://anaperezpalma.com/wp-content/uploads/2020/04/5c92476810826-1024x588-1.jpeg"
+    },
+    {
+        "name": "tristeza",
+        "dir": "https://www.tvn-2.com/variedad/Tristeza-Intensamente_11710584.jpg"
+    },
+    {
+        "name": "dramaqueen",
+        "dir": "https://lh3.googleusercontent.com/proxy/ZpFV69R-Hq51fy6ZlOxq2LEnfBXxrAW4GbcSLOhqbJlArfh5N0NTUJXVfzbduJFarA-6PsZRDfCFs3gLLypwY5hLE7jI95SzE5mfxW43Wixttp45U-tDw-68"
+    },
+    {
+        "name": "suicidio",
+        "dir": "https://www.generadormemes.com/media/created/1200x675xfjkvbedx3do4tqp6eimapdaqhww6bedeoef0hyjnld3i78dpbvf4rxvt89hgpe5.jpg.pagespeed.ic.meme.jpg"
+    },
+    {
+        "name": "egoista",
+        "dir": "https://e.rpp-noticias.io/normal/2020/10/22/154415_1013160.jpg"
+    },
+    {
+        "name": "amorosa",
+        "dir": "https://cdn5.dibujos.net/dibujos/pintados/201213/nina-con-corazon-fiestas-san-valentin-pintado-por-gabyalex-9727256.jpg"
+    },
+    {
+        "name": "infantil",
+        "dir": "https://i.pinimg.com/originals/a9/36/3e/a9363e43c0b265ebb673b0e0b8c11128.jpg"
+    },
+    {
+        "name": "chisme",
+        "dir": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQc1rJ_heAVMFHog0MHrdkrUz3rUgBvYD5EZg&usqp=CAU"
+    },
+    {
+        "name": "chiple",
+        "dir": "https://3.bp.blogspot.com/-5nETjbOlKUc/XBk12LaHfBI/AAAAAAAANWY/jY106y07LSE9yVSfO4EThoUuDhh2COKdQCLcBGAs/s1600/regalos.jpg?fbclid=IwAR1eBfbBUtasfJuL044UUGdsC6xkNuVAMaTcGbYHlzMP1wLax25EPC7HyCY"
+    },
+    {
+        "name": "bailar",
+        "dir": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ_UOQbgcGRh_wxmteQllnJ6Xk8HCSExIsyGw&usqp=CAU"
+    },
+    {
+        "name": "correr",
+        "dir": "https://web.asdeporte.com/wp-content/uploads/2019/09/corre-pista-1200-1-1068x711.jpg"
+    },
+    {
+        "name": "videoJuegos",
+        "dir": "https://i0.wp.com/islademonos.com/wp-content/uploads/2020/07/videojuegos-aprendizaje-2.png?fit=995%2C770&ssl=1"
+    },
+    {
+        "name": "leer",
+        "dir": "https://concepto.de/wp-content/uploads/2016/04/leer.jpg"
+    },
+    {
+        "name": "estudiar",
+        "dir": "https://guiauniversitaria.mx/wp-content/uploads/2019/09/estudiar-para-aprender.jpg"
+    },
+    {
+        "name": "cantar",
+        "dir": "https://www.elquintanaroo.mx/wp-content/uploads/2020/08/cantar-covid.jpg"
+    },
+    {
+        "name": "piano",
+        "dir": "https://revistadiners.com.co/wp-content/uploads/2018/09/portada_piano_800x669.jpg"
+    },
+    {
+        "name": "guitarra",
+        "dir": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSc_qouRxD_ZCOJ2VLNniEGDf5IzqvKNaMwIQ&usqp=CAU"
+    },
+    {
+        "name": "violin",
+        "dir": "https://i.ytimg.com/vi/cLaC7RpndZs/maxresdefault.jpg"
+    },
+    {
+        "name": "bateria",
+        "dir": "https://www.wikihow.com/images_en/thumb/2/22/Play-Drums-Step-27-Version-4.jpg/550px-nowatermark-Play-Drums-Step-27-Version-4.jpg.webp"
+    },
+    {
+        "name": "bajo",
+        "dir": "https://d3puay5pkxu9s4.cloudfront.net/curso/1760/800_imagen.jpg"
+    },
+    {
+        "name": "natacion",
+        "dir": "https://concepto.de/wp-content/uploads/2019/06/natacion-deporte-estilo-mariposa-e1559784662984.jpg"
+    },
+    {
+        "name": "golf",
+        "dir": "https://conceptodefinicion.de/wp-content/uploads/2017/09/Golf.jpg"
+    },
+    {
+        "name": "ballet",
+        "dir": "https://sites.google.com/site/webmhrdanza/_/rsrc/1468891045292/home/ballet/royal-nz-ballet.jpeg?height=320&width=213"
+    },
+    {
+        "name": "basketball",
+        "dir": "https://cdn.shopify.com/s/files/1/0712/4751/products/BX7E-02E_High_Large_TOP_2000x.png?v=1571438901"
+    },
+    {
+        "name": "futbol",
+        "dir": "https://sites.google.com/site/joseydamian/_/rsrc/1468742358739/classroom-pictures/home/pelota-de-futbol-9716.jpg?height=250&width=400"
+    },
+    {
+        "name": "volleyball",
+        "dir": "https://www.pe.com/wp-content/uploads/2019/11/xxxx_spo_ocr-l-volleyball-generic-stock-001-3.jpg"
+    },
+    {
+        "name": "gimnasia",
+        "dir": "https://anv.mx/wp-content/uploads/2019/02/ban_escuelas-1920-x-1000-1024x533.jpg"
+    },
+    {
+        "name": "pan",
+        "dir": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/PAN_logo_%28Mexico%29.svg/1200px-PAN_logo_%28Mexico%29.svg.png"
+    },
+    {
+        "name": "pri",
+        "dir": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/PRI_logo_%28Mexico%29.svg/1200px-PRI_logo_%28Mexico%29.svg.png"
+    },
+    {
+        "name": "prd",
+        "dir": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/PRD_logo_%28Mexico%29.svg/1200px-PRD_logo_%28Mexico%29.svg.png"
+    },
+    {
+        "name": "morena",
+        "dir": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Morena_logo_%28Mexico%29.svg/1200px-Morena_logo_%28Mexico%29.svg.png"
+    },
+    {
+        "name": "partido verde",
+        "dir": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Logo_Partido_Verde_%28M%C3%A9xico%29.svg/1200px-Logo_Partido_Verde_%28M%C3%A9xico%29.svg.png"
+    },
+    {
+        "name": "nuevaAlianza",
+        "dir": "https://www.milenio.com/uploads/media/2018/07/30/logo-partido-nueva-alianza.jpg"
+    },
+    {
+        "name": "movimientoCiudadano",
+        "dir": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_Partido_Movimiento_Ciudadano_%28M%C3%A9xico%29.svg/-Logo_Partido_Movimiento_Ciudadano_%28M%C3%A9xico%29.svg.png"
+    }
+]
